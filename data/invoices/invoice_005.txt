@@ -1,0 +1,6 @@
+Invoice Number: INV-2026-005
+Supplier: Repsol Fleet Services
+Invoice Date: 2026-01-22
+Currency: EUR
+Total: 121.40
+Description: Fuel expenses for field operations.

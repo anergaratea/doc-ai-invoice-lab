@@ -1,0 +1,6 @@
+Invoice Number: INV-2026-002
+Supplier: Amazon Web Services EMEA
+Invoice Date: 2026-01-12
+Currency: EUR
+Total: 615.30
+Description: GPU instances for model experimentation.

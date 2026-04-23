@@ -1,0 +1,6 @@
+Invoice Number: INV-2026-004
+Supplier: Canon España
+Invoice Date: 2026-01-20
+Currency: EUR
+Total: 289.99
+Description: Office printer leasing and maintenance.

@@ -1,0 +1,6 @@
+Invoice Number: INV-2026-001
+Supplier: Azure Cloud España
+Invoice Date: 2026-01-08
+Currency: EUR
+Total: 842.50
+Description: Monthly compute and storage services for AI workloads.

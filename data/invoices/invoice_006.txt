@@ -1,0 +1,6 @@
+Invoice Number: INV-2026-006
+Supplier: OpenAI Research Supplies
+Invoice Date: 2026-01-25
+Currency: EUR
+Total: 410.00
+Description: Software tooling and collaboration add-ons.

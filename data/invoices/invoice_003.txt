@@ -1,0 +1,6 @@
+Invoice Number: INV-2026-003
+Supplier: Iberdrola Clientes
+Invoice Date: 2026-01-14
+Currency: EUR
+Total: 193.74
+Description: Electricity bill for office operations.
